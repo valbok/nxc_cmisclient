@@ -1,3 +1,12 @@
+NXC CMIS Client v1.0
+====================
+
+Provides possibilities to connect to external or remote systems using CMIS 1.0 and fetch, surf or upload data to it.
+
+Usually it is useful to keep files on remote host that provides access by CMIS but to use these files in eZ Publish.
+These files/documents can be used in eZ OE, WYSIWYG editor.
+In this case eZ Publish will be used like content system but all files or documents will be stored in remote repository.
+
 LOGIN
 =====
 
